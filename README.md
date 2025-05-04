@@ -20,7 +20,7 @@ Communication barriers between hearing and non-hearing individuals often require
 - Resized, normalized, and augmented the data for model training.
 
 ### 2. Hand Landmark Detection
-- Used **MediaPipe** to extract 21 hand landmarks.
+- Used **MediaPipe** to extract 26 hand landmarks.
 - Converted landmarks into structured feature vectors.
 
 ### 3. Model Building
